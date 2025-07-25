@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Kevin
 
-<!--
-**giankev/giankev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing an MSc in Artificial Intelligence & Robotics at *Sapienza University* of *Rome*  
+💻 BSc in **Computer Engineering** from *University of Pisa*  
+🧠 Passionate about **Deep Learning**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** Python, C, C++, JavaScript, PHP, SQL  
+- **Deep Learning Frameworks:** PyTorch, Hugging Face Transformers    
+- **Tools & Concepts:** Git, Operating Systems, Computer Networks  
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always open to interesting collaborations, or just a good technical chat about AI and deep learning.  
+If you have something in mind or just want to connect, feel free to reach out!
+
+---
+
+## 📫 Contact
+
+-  Email: gianandreak79@gmail.com

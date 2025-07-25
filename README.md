@@ -7,13 +7,6 @@ If you have something in mind or just want to connect, feel free to reach out!
 
 ---
 
-### 🛠️ Technologies & Tools
-
-- **Programming Languages:** Python, C, C++, JavaScript, PHP, SQL  
-- **Deep Learning Frameworks:** PyTorch, Hugging Face Transformers    
-- **Tools & Concepts:** Git, Operating Systems, Computer Networks  
-
----
 
 ### 📫 Contact
 

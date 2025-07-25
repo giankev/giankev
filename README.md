@@ -18,3 +18,6 @@ If you have something in mind or just want to connect, feel free to reach out!
 ### 📫 Contact
 
 -  Email: gianandreak79@gmail.com
+<p align="center">
+  <img src="meme_matrixmul.jpg" width="400"/>
+</p>

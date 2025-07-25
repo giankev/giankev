@@ -3,7 +3,6 @@ If you have something in mind or just want to connect, feel free to reach out!
 
 🎓 Currently pursuing an MSc in Artificial Intelligence & Robotics at *Sapienza University* of *Rome*  
 💻 BSc in **Computer Engineering** from *University of Pisa*  
-🧠 Passionate about **Deep Learning**
 
 ---
 
